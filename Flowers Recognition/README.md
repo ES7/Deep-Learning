@@ -1,0 +1,1 @@
+I have made a deep learning model which predicts the type of flowers from 4 classes 'dandelion', 'tulip', 'rose', 'daisy' and 'sunflower'. I have downloaded the dataset from kaggle https://www.kaggle.com/datasets/alxmamaev/flowers-recognition which contains 4317 images.

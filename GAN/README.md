@@ -1,1 +1,1 @@
-# Generative dversarial Neural Network
+# Generative Adversarial Neural Network

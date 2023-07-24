@@ -4,7 +4,7 @@ import time
 import keras
 import numpy as np
 
-model = keras.models.load_model('saved/model1.keras')
+model = keras.models.load_model('model/model1.keras')
 
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands

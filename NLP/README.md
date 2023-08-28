@@ -1,5 +1,5 @@
 # NLP (Natural Language Processing)
-is a field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a way 
+NLP is a field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a way 
 that is both meaningful and useful. NLP involves the interaction between computers and human language, encompassing tasks such as text analysis,
 language generation, language translation, sentiment analysis, speech recognition, and more. </br>
 Some of the key components and tasks within NLP include :- 

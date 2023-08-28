@@ -1,4 +1,4 @@
-![image](https://github.com/ES7/Deep-Learning/assets/95970293/00121f17-0599-4e67-9cbe-0fc58ed12245)# Music Generation using LSTM
+# Music Generation using LSTM
 I have downloaded the dataset from kaggle https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi </br>
 In this dataset there are MIDI files of classic piano music of various artists, I have used the Chopin's compositions.
 Using music21 I have first parsed all the files and then using the function `extract_notes(file)` I have extracted the chords and notes out of the data to create a corpus. </br>

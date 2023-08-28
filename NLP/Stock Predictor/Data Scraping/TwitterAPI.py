@@ -2,13 +2,13 @@ import tweepy
 import pandas as pd
 import time
 
-api_key = "Zf5TkFjjbqxyzC02cFNbrfd2V"
-api_key_secret = "afUdvsB5rueFfZhAFguKlpbhzyFwL1rEp898MSj1HBBh7In8Sk"
+api_key = ""
+api_key_secret = ""
 
-access_token = '1420374454392156165-XUOMDIw2YmAIcF1xZVyp4Y50JEGUlB'
-access_token_secret = 'rVOG17Kl7vZf8wB3cLt9X6YRk3LrEJctL48KyqX2SPqJI'
+access_token = ''
+access_token_secret = ''
 
-bearer_token = 'AAAAAAAAAAAAAAAAAAAAACBMmgEAAAAAw3PLiiRAGDhbhSAUbU9VAvnibrQ%3D2eCLhI022HNUi8nGhOymfm02j75QqaEzPfFJ9HDLcXPqjZtXJx'
+bearer_token = ''
 
 keyword = 'APPL stocks'
 # authentication

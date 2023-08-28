@@ -1,6 +1,6 @@
 # NLP (Natural Language Processing)
-**NLP from Scratch :-** https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e </br>
-** :-** https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/ </br>
+**About NLP :-** https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e </br>
+**NLP from Scratch :-** https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/ </br>
 NLP is a field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a way 
 that is both meaningful and useful. NLP involves the interaction between computers and human language, encompassing tasks such as text analysis,
 language generation, language translation, sentiment analysis, speech recognition, and more. </br>

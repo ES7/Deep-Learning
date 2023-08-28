@@ -1,5 +1,5 @@
 # NLP (Natural Language Processing)
-**NLP from Scratch :-** https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
+**NLP from Scratch :-** https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e </br>
 NLP is a field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a way 
 that is both meaningful and useful. NLP involves the interaction between computers and human language, encompassing tasks such as text analysis,
 language generation, language translation, sentiment analysis, speech recognition, and more. </br>
